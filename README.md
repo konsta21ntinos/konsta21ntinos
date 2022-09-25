@@ -1,2 +1,2 @@
 I’m @konsta21ntinos
-i'm an Electrical Engineering student @NTUA. Interested in C++, Python and Matlab for my syllabus.
+i'm an Electrical Engineering student @NTUA. Interested in Matlab for my thesis.
